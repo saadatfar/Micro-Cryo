@@ -1,0 +1,11 @@
+/Debug
+/Release
+*.*~
+*.cci
+*.cbi
+*.cof
+*.hci
+*.fct
+*.atsln
+*.cprog
+*.cproj
